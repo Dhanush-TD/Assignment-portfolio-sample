@@ -1,0 +1,29 @@
+.blog-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;     
+  text-align: center;      
+  background-color: #f9f9f9;
+}
+
+
+.blog-image {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+.blog-title {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.blog-author {
+  color: #777;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+.blog-description {
+  color: #555;
+  font-size: 16px;
+}
